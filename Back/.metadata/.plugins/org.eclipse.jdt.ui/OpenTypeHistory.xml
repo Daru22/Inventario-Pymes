@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=ms-producto/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;pe.com.daga.app.productos.services{ProductoService.java[ProductoService" modifiers="513" timestamp="1668206973813"/>
+    <typeInfo handle="=ms-cliente/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;pe.com.daga.app.cliente.services{ClienteService.java[ClienteService" modifiers="513" timestamp="1664404969926"/>
+    <typeInfo handle="=commons-ms/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;pe.com.daga.commons.services{CommonServiceImpl.java[CommonServiceImpl" modifiers="1" timestamp="1665066954568"/>
+    <typeInfo handle="=commons-ms/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;pe.com.daga.commons.services{CommonService.java[CommonService" modifiers="513" timestamp="1665066803300"/>
+    <typeInfo handle="=ms-producto/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;pe.com.daga.app.productos.services{IngresoProductoService.java[IngresoProductoService" modifiers="513" timestamp="1668094899056"/>
+</typeInfoHistroy>
